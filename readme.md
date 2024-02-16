@@ -1,0 +1,1 @@
+made for 1440x1024px

@@ -133,7 +133,7 @@ main {
     color: #fff;
     font-size: 1.25rem;
     padding-left: 2vw;
-    text-align: left;
+    text-align: left; /* align left because it was not centered in the figma */
 }
 
 /*---------- section why enver ----------*/
