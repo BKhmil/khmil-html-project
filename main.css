@@ -278,7 +278,9 @@ main {
 }
 
 /*  this style correct only for 1440-1024
-    on my screen current style height is not enough  */
+    on my screen current style height is not enough
+
+    code for this style in index.html marked as ~~~~ POINT 1 ~~~~  */
 /*----------------------------------------*/
 /*.project-wrapper {*/
 /*    width: 26vw;*/
